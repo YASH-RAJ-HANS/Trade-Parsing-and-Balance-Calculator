@@ -30,4 +30,4 @@ This is a server-side application built with Node.js and MongoDB that parses cry
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to [sahilaroraji2002@gmail.com].
+If you have any questions or suggestions, feel free to reach out to [yashhans479@gmail.com].
